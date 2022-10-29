@@ -1,1 +1,1 @@
-#A demo django project
+#A demo song CRUD django project
